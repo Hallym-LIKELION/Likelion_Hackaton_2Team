@@ -2,7 +2,7 @@
 2023 멋쟁이사자처럼 중앙해커톤 동기없는비동기팀(한림대 2팀) 개발 레포입니다.
 
 ## 개발 프로젝트 Organization 바로가기 🙈
-[동기없는비동기팀의 개발 저장소🧾]()
+[동기없는비동기팀의 개발 저장소🧾](https://github.com/Likelion-MainHackaton-2team)
 
 ## Dev Team ⭐
 
